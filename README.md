@@ -2,7 +2,7 @@
 
 This project is made for managing time by letting people see how much time do they have to wait in the queue to get food in the canteen and how many tables are now free there!
 
-## Detecting People in the queue and calculating the waiting time!
+## Detecting people in the queue and calculating the waiting time!
 
 ![alt text](/Users/vladimirkalajcidi/Downloads/скрин1.png)
 
