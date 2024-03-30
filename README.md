@@ -6,6 +6,10 @@ This project is made for managing time by letting people see how much time do th
 
 ![alt text](cover.png)
 
+## High Level Description 
+
+(Time_Management_HLD.docx)
+
 ## Inastallations
 1. Create a virtual environment `conda create -n timemanagement python=3.11.8` 
 2. Activate it `conda activate timemanagement`
