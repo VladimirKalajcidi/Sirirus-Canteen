@@ -4,7 +4,7 @@ This project is made for managing time by letting people see how much time do th
 
 ## Detecting people in the queue and calculating the waiting time!
 
-![alt text](/Users/vladimirkalajcidi/Downloads/скрин1.png)
+![alt text](cover.png)
 
 ## Inastallations
 1. Create a virtual environment `conda create -n timemanagement python=3.11.8` 
