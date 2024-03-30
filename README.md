@@ -8,7 +8,7 @@ This project is made for managing time by letting people see how much time do th
 
 ## High Level Description 
 
-Description of how we calculated everything [here](Time_Management_HLD.docx))
+Description of how we calculated everything [here](Time_Management_HLD.docx)
 
 ## Inastallations
 1. Create a virtual environment `conda create -n timemanagement python=3.11.8` 
