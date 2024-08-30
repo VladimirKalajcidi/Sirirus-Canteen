@@ -1,4 +1,4 @@
-# Time Management
+# Sirirus Canteen 
 
 This project is made for managing time by letting people see how much time do they have to wait in the queue to get food in the canteen and how many tables are now free there!
 
