@@ -18,7 +18,7 @@ All the videos from cameras [are in this folder](https://drive.google.com/file/d
 1. Create a virtual environment `conda create -n timemanagement python=3.11.8` 
 2. Activate it `conda activate timemanagement`
 3. Install libraries `pip install supervision==0.19.0 ultralytics time numpy open-cv`
-4. Run the code `Time Management.ipynb`
+4. Run the code detection.ipynb`
 
 ## Authors
 1. Vladimir Kalaychidi
